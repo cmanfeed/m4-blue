@@ -1,0 +1,22 @@
+.navbar-brand{
+    color: white;
+}
+
+.main-image{
+    margin: 1em;
+}
+
+.img-fluid{
+    width: 100%;
+}
+
+.card-area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card{
+    margin: 1em;
+    padding: 1em;
+}

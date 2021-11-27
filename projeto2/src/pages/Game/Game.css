@@ -1,0 +1,16 @@
+.main-title{
+  text-align: center;
+  margin: 1em;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.game-area{
+  display: flex;
+  justify-content: space-between;
+}
+
+.game-area img{
+  width: 35rem;
+  margin-right: 2em;
+}

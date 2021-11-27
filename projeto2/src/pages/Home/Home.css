@@ -1,0 +1,17 @@
+.main-title{
+  text-align: center;
+  margin: 1em;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.card{
+  margin: 0.5em;
+  width: 16rem;
+}
+
+.card-area{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
